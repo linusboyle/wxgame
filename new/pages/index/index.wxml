@@ -1,0 +1,2 @@
+<!--index.wxml-->
+    <canvas disable-scroll="true" canvas-id="canvas-1"  bindtouchstart='tapstart'  bindtouchmove='tapmove' bindtouchend='tapend' style='width:{{width}};height:{{height}};border:1px solid #000'></canvas>
